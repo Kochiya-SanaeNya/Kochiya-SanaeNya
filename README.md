@@ -13,6 +13,7 @@ I am a developer with a passion for graphics development, artificial intelligenc
 - Some OpenGL sample programs
 ## Contact me
 You can find my contact information in my profile in the left sidebar, but this information is not checked frequently.
+
 If you have an emergency, you might not be able to reach me. :D
 ### Things I like
 - Touhou Project
