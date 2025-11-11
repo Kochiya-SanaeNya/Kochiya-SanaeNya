@@ -1,5 +1,6 @@
 # Welcome here
 I am a developer with a passion for graphics development, artificial intelligence, and combating web censorship. My additional hobbies include reverse engineering and CTF(It only started recently).
+I don't like algorithms :<
 ## Languages & Technology stack
 - Programming : C,C++,C#,Java,Go,Python (I use C++, C#, and Go the most.)
 - Message and data spoofing
