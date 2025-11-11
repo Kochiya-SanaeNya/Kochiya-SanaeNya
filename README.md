@@ -9,9 +9,10 @@ I don't like algorithms :<
 - Translate visual novels into Chinese
 ## Projects
 - Self-tuned large language model for security analysis
-- Software that disguises data as normal HTTPS messages to build virtual tunnels
-- Using Vulkan's small rendering engine
-- Some OpenGL sample programs
+- Software that disguises data as normal HTTPS messages to build virtual tunnels(Go C#)
+- Using Vulkan's small rendering engine(C++)
+- Some OpenGL sample programs(C++)
+- Ultra-lightweight intranet penetration software suite(C# & Go)
 ## Contact me
 You can find my contact information in my profile in the left sidebar, but this information is not checked frequently.
 
