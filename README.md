@@ -6,7 +6,7 @@ I don't like algorithms :<
 A staunch non-marriage advocate.  
 Interest drives software development
 ## Languages & Technology stack
-- Programming : C,C++,C#,Java,Go,Python (I use C++, C#, and Go the most.)
+- Programming : C,C++,C#,Java,Go,Python (I use Java, C#, and C++ the most.)
 - Message and data spoofing
 - Rendering
 - Large language model fine-tuning
