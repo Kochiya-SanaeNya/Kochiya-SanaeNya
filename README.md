@@ -4,7 +4,8 @@ KochiyaSanaeNya's GitHub Pages.
 I am a developer with a passion for graphics development, artificial intelligence, and combating web censorship. My additional hobbies include reverse engineering and CTF(It only started recently).  
 I don't like algorithms :<  
 A staunch non-marriage advocate.  
-Interest drives software development
+Interest drives software development,Not for honors and rewards
+Support the open source movement and oppose the copyright system.
 ## Languages & Technology stack
 - Programming : C,C++,C#,Java,Kotlin,Go,Python (I use Java, Kotlin, C#, C++ and Go the most.)
 - Message and data spoofing
