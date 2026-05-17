@@ -1,24 +1,21 @@
-# Welcome here
+# Welcome here👋
 KochiyaSanaeNya's GitHub Pages.
 ## About me
-I am a developer with a passion for graphics development, artificial intelligence, and combating web censorship. My additional hobbies include reverse engineering .  
+I am a developer with a passion for graphics development, artificial intelligence, and reverse engineering .  
 I don't like algorithms :<  
 A staunch non-marriage advocate.  
 Interest drives software development,Not for honors and rewards  
 Support the open source movement and oppose the copyright system.  
 ## Languages & Technology stack
-- Programming : C,C++,C#,Java,Kotlin,Go,Python (I use Java, Kotlin, C#, C++ and Go the most.)
-- Message and data spoofing
+- Programming : C,C++,C#,Java,Kotlin,Go,Python,GLSL
 - Rendering
-- Large language model fine-tuning
-- Translate visual novels into Chinese
+- Network software development
+- Server maintenance
 ## Contact me
-You can find my contact information in my profile in the left sidebar, but this information is not checked frequently.
-
+You can find my contact information in my profile in the left sidebar, but this information is not checked frequently.  
 If you have an emergency, you might not be able to reach me. :D
 ### Things I like
 - Touhou Project
-- Blue Archive
 - Embedded hardware
 - Amateur radio
 - Trains and subways
