@@ -1,7 +1,7 @@
 # Welcome here
 KochiyaSanaeNya's GitHub Pages.
 ## About me
-I am a developer with a passion for graphics development, artificial intelligence, and combating web censorship. My additional hobbies include reverse engineering and CTF(It only started recently).  
+I am a developer with a passion for graphics development, artificial intelligence, and combating web censorship. My additional hobbies include reverse engineering .  
 I don't like algorithms :<  
 A staunch non-marriage advocate.  
 Interest drives software development,Not for honors and rewards  
